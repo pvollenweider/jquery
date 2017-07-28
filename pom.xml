@@ -52,9 +52,9 @@
         <version>7.1.0.0</version>
     </parent>
     <artifactId>jquery</artifactId>
-	<version>7.1.3-SNAPSHOT</version>
+	<version>7.321-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>jQuery 3</name>
+    <name>jQuery 3 (unofficial)</name>
     <description>Provides jQuery 3 library for Jahia xCM server.</description>
     <scm>
         <connection>scm:git:git@github.com:pvollenweider/jquery.git</connection>
