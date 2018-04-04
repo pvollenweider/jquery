@@ -54,7 +54,7 @@
     <artifactId>jquery</artifactId>
 	<version>7.332-SNAPSHOT</version>
     <packaging>bundle</packaging>
-    <name>jQuery 3 (unofficial)</name>
+    <name>jQuery 3 (unofficial - pvollenweider fork)</name>
     <description>Provides jQuery 3 library for Jahia xCM server.</description>
     <scm>
         <connection>scm:git:git@github.com:pvollenweider/jquery.git</connection>
